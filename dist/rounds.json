@@ -1,0 +1,230 @@
+[
+  {
+    "id": 11,
+    "title": "Alice’s Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "year": 1865,
+    "real": "First it marked out a race-course, in a sort of circle, (“the exact shape doesn’t matter,” it said,) and then all the party were placed along the course, here and there. There was no “One, two, three, and away,” but they began running when they liked, and left off when they liked, so that it was not easy to know",
+    "source": "https://www.gutenberg.org/ebooks/11",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/11/pg11.txt",
+    "index": 0,
+    "fake": "It next mapped out a track in a rough ring, and observed, “The outline matters little,” and then the company were set along it, some here and some there. There was no “One, two, three, and away,” at all; they began to run whenever they pleased, and halted whenever their fancy turned, so that one could not easily tell where the running would end, or begin.",
+    "observation": "This counterfeit omits the original’s explicit “party were placed along the course, here and there” wording and replaces it with “company were set along it,” so the sequence of actions is similar but the phrasing and local structure differ.",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.478Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 11,
+    "title": "Alice’s Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "year": 1865,
+    "real": "There was certainly too much of it in the air. Even the Duchess sneezed occasionally; and as for the baby, it was sneezing and howling alternately without a moment’s pause. The only things in the kitchen that did not sneeze, were the cook, and a large cat which was sitting on the hearth and grinning from ear to ear.",
+    "source": "https://www.gutenberg.org/ebooks/11",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/11/pg11.txt",
+    "index": 1,
+    "fake": "There was, without doubt, a great deal of it hovering in the room. The Duchess sneezed now and then; and as for the little one, it sneezed and howled together, without any pause between them. Only the cook and a tall cat upon the hearth kept free of any sneeze, and the cat smiled, as if with perfect enjoyment, from ear to ear.",
+    "observation": "Unlike the source, the counterfeit changes “large cat” to “tall cat” and alters the closing beat (“grinning from ear to ear” becomes “smiled... from ear to ear”).",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 11,
+    "title": "Alice’s Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "year": 1865,
+    "real": "All the time they were playing the Queen never left off quarrelling with the other players, and shouting “Off with his head!” or “Off with her head!” Those whom she sentenced were taken into custody by the soldiers, who of course had to leave off being arches to do this, so that by the end of half an hour or",
+    "source": "https://www.gutenberg.org/ebooks/11",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/11/pg11.txt",
+    "index": 2,
+    "fake": "All the while the Queen was at play she never ceased scolding the other players and crying, “Off with his head!” or “Off with her head!” Those whom she condemned were marched into custody by the men in uniform; they must break off from being arches to do it, and thus within the space of half an hour or less the scene had turned",
+    "observation": "The counterfeit keeps the same governing events but uses “marched into custody” and “in uniform” instead of the original’s “taken into custody” and “soldiers... arches,” shifting the clause rhythm.",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 84,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "real": "Beaufort had taken effectual measures to conceal himself, and it was ten months before my father discovered his abode. Overjoyed at this discovery, he hastened to the house, which was situated in a mean street near the Reuss. But when he entered, misery and despair alone welcomed him. Beaufort had saved but a very small sum of money from the",
+    "source": "https://www.gutenberg.org/ebooks/84",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/84/pg84.txt",
+    "index": 3,
+    "fake": "Beaufort had contrived to hide himself with care, and it was ten months before my father learned where he lived. Smitten with the tidings, he hurried to the place, which stood in a narrow street near the Reuss. Yet the moment he entered, nothing but misery and ruin met him. Beaufort had set aside only a scant sum from the",
+    "observation": "The counterfeit keeps the same timeframe and locations but adjusts the wording of “effectual measures to conceal himself” to “contrived to hide himself with care,” and changes “abode” to “place.”",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 84,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "real": "Several months passed in this manner. Her father grew worse; her time was more entirely occupied in attending him; her means of subsistence decreased; and in the tenth month her father died in her arms, leaving her an orphan and a beggar. This last blow overcame her, and she knelt by Beaufort’s coffin weeping bitterly, when my father entered the",
+    "source": "https://www.gutenberg.org/ebooks/84",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/84/pg84.txt",
+    "index": 4,
+    "fake": "Several months went by in this fashion. Her father grew frailer; her hours were wholly taken up in nursing him; her means fell away; and in the tenth month her father died in her arms, leaving her alone in the world, a penniless orphan. This last stroke unseated her grief: she knelt beside Beaufort’s coffin, weeping, when my father stepped in",
+    "observation": "While the source says “leaving her an orphan and a beggar” and “This last blow,” the counterfeit substitutes “penniless orphan” and “This last stroke,” changing the impact phrasing.",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 84,
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year": 1818,
+    "real": "There was a considerable difference between the ages of my parents, but this circumstance seemed to unite them only closer in bonds of devoted affection. There was a sense of justice in my father’s upright mind which rendered it necessary that he should approve highly to love strongly. Perhaps during former years he had suffered from the late-discovered unworthiness of",
+    "source": "https://www.gutenberg.org/ebooks/84",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/84/pg84.txt",
+    "index": 5,
+    "fake": "There was indeed a notable difference between the years of my parents, yet it seemed to bind them more firmly in a devotion that grew daily. In my father’s upright spirit there was a sense of right which obliged him to approve, and to love with all his strength. Perhaps in former days he had endured the blow of being awakened to the late-discovered unworthiness of",
+    "observation": "The counterfeit alters “rendered it necessary” to “obliged him to approve,” and “to love strongly” to “to love with all his strength,” affecting the syntactic structure of the middle sentence.",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 1661,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "year": 1892,
+    "real": "“It is nothing very formidable,” he said, taking a long cigar-shaped roll from his pocket. “It is an ordinary plumber’s smoke-rocket, fitted with a cap at either end to make it self-lighting. Your task is confined to that. When you raise your cry of fire, it will be taken up by quite a number of people. You may then walk",
+    "source": "https://www.gutenberg.org/ebooks/1661",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/1661/pg1661.txt",
+    "index": 6,
+    "fake": "“Nothing that need trouble you greatly,” said he, drawing from his pocket a long cigar-formed roll. “It is a common plumber’s smoke-rocket, with a cap at each end so it lights itself. Your business is only that. When you raise your cry of fire, it will be answered by many folk. You may then proceed”",
+    "observation": "This version retains the substance but changes the ordering and wording of the instructions (“Your business is only that” and “proceed” replace the original’s “Your task is confined to that” and “walk”).",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 1661,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "year": 1892,
+    "real": "“It is most unlikely that she carries it about with her. It is cabinet size. Too large for easy concealment about a woman’s dress. She knows that the King is capable of having her waylaid and searched. Two attempts of the sort have already been made. We may take it, then, that she does not carry it about with her.”",
+    "source": "https://www.gutenberg.org/ebooks/1661",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/1661/pg1661.txt",
+    "index": 7,
+    "fake": "“It is hardly likely she bears it on her person. It is cabinet-sized. Too bulky for easy keeping about a woman’s dress. She knows the King may have her stopped and searched. Two attempts of the sort have been tried already. We may conclude, then, that she does not carry it about with her.”",
+    "observation": "The counterfeit collapses some of the original’s phrasing—e.g., “takes it, then” becomes “We may conclude, then”—creating a different cadence though the logic is parallel.",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 1661,
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "year": 1892,
+    "real": "As he spoke the gleam of the sidelights of a carriage came round the curve of the avenue. It was a smart little landau which rattled up to the door of Briony Lodge. As it pulled up, one of the loafing men at the corner dashed forward to open the door in the hope of earning a copper, but was",
+    "source": "https://www.gutenberg.org/ebooks/1661",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/1661/pg1661.txt",
+    "index": 8,
+    "fake": "As he uttered those words the lamps along the carriageway caught the curve of the avenue. It was a smart little landau that came clattering up to Briony Lodge. As it drew in, one of the men lounging by the corner darted forward to take hold of the door, eager to earn a copper, but he",
+    "observation": "The counterfeit shifts “sidelights of a carriage” to “lamps along the carriageway,” and changes “loafing men” to “men lounging,” producing a distinct descriptive setup.",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 120,
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "year": 1883,
+    "real": "“Thunder!” he cried. “A week! I can’t do that; they’d have the black spot on me by then. The lubbers is going about to get the wind of me this blessed moment; lubbers as couldn’t keep what they got, and want to nail what is another’s. Is that seamanly behaviour, now, I want to know? But I’m a saving soul.",
+    "source": "https://www.gutenberg.org/ebooks/120",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/120/pg120.txt",
+    "index": 9,
+    "fake": "“Thunder!” said he. “A week? I can’t compass that; they’d have the black mark upon me by then. The lubbers are keen to hear of me just at this fine instant—lubbers that can’t hold on to what they seize, and must pin what belongs to another. Seamanly, that, I ask you? Yet I’m a man that saves.”",
+    "observation": "The counterfeit preserves the same speaker intent but replaces “black spot” with “black mark” and modifies the final phrase (“saving soul” becomes “a man that saves”).",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 120,
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "year": 1883,
+    "real": "“That’s a summons, mate. I’ll tell you if they get that. But you keep your weather-eye open, Jim, and I’ll share with you equals, upon my honour.” He wandered a little longer, his voice growing weaker; but soon after I had given him his medicine, which he took like a child, with the remark, “If ever a seaman wanted drugs,",
+    "source": "https://www.gutenberg.org/ebooks/120",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/120/pg120.txt",
+    "index": 10,
+    "fake": "“That is a summons, mate. I’ll tell you if they get that. Meanwhile you keep your weather-eye open, Jim, and I will stand by you—share and share alike—upon my honour.” He went on wandering a little farther; his words grew thin. But soon after I had given him his medicine—he took it meekly enough, like a child—adding, “If ever a seaman wanted drugs,”",
+    "observation": "The counterfeit changes the structure around the quoted remark (“which he took like a child, with the remark” becomes “he took it meekly enough, like a child—adding”), altering punctuation placement.",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  },
+  {
+    "id": 120,
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "year": 1883,
+    "real": "I held out my hand, and the horrible, soft-spoken, eyeless creature gripped it in a moment like a vise. I was so much startled that I struggled to withdraw, but the blind man pulled me close up to him with a single action of his arm.",
+    "source": "https://www.gutenberg.org/ebooks/120",
+    "license": "Public domain in the USA; check local copyright rules.",
+    "sourceText": "https://www.gutenberg.org/cache/epub/120/pg120.txt",
+    "index": 11,
+    "fake": "I held out my hand; the dreadful, soft-spoken, eyeless creature fastened on it at once, like a clamp. I was so startled that I tried to draw away, but the blind man drew me nearer to him with one swift turn of his arm.",
+    "observation": "While the original says the blind man “pulled me close up to him,” the counterfeit uses “drew me nearer... with one swift turn,” changing the action verb and rhythm.",
+    "generation": {
+      "model": "openai/gpt-5.4-nano",
+      "responseId": "chatcmpl-ETfQqxpZEUyWgPotm03zfBFid9hFZ",
+      "generatedAt": "2026-09-30T03:38:16.479Z"
+    },
+    "prompt": "Write an original passage matching this excerpt’s subject, length, character names and period style, without copying any sentence."
+  }
+]

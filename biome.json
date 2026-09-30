@@ -1,0 +1,1 @@
+{"$schema":"https://biomejs.dev/schemas/2.3.10/schema.json","root":true,"vcs":{"enabled":false},"files":{"includes":["**/*.js","**/*.mjs","**/*.json","!dist/rounds.json","!generation-evidence.json","!source-rounds.json"]}}
